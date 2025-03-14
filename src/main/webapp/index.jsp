@@ -140,52 +140,7 @@
         </div>
         <div class="page_footer">
             <div class="footer_Section">
-                <div class="footer_main_wrapper">
-                    <div class="container_one">
-                        <h2>harsha</h2>
-                        <h3>Subcribe</h3>
-                        <p>Get 10% off your first order</p>
-                        <h3>Subcribe</h3>
-                        <p>Get 10% off your first order</p>
-                    </div>
-                    <div class="container_one flexgrow_one">
-                        <h3>Future</h3>
-                        <p>Acchive</p>
-                        <p>harsha@gmail.gom</p>
-                        <p>..............</p>
-                    </div>
-                    <div class="container_one flexgrow_two">
-                        <h3>Account</h3>
-                        <p>My Account</p>
-                        <p>Login / Register</p>
-                        <p>Cart</p>
-                        <p>Wishlist</p>
-                        <p>Shop</p>
-                    </div>
-                    <div class="container_one flexgrow_three">
-                        <h3>Quick Link</h3>
-                        <p>Privacy Policy</p>
-                        <p>Terms of Use</p>
-                        <p>FAQ</p>
-                        <p>Contact</p>
-                    </div>
-                    <div class="container_one flexgrow_four">
-                        <h3>Download App</h3>
-                        <p>save 3% with app new user only</p>
-                        <div class="contact_icon">
-                            <div>
-                                <img src="assert/Untitled 1.png" width="80" height="80" alt="">
-                            </div>
-                            <div>
-                                <img src="assert/GooglePlay.png" alt="" srcset=""><br>
-                                <img src="assert/download-appstore.png" alt="" srcset="">
-                            </div>
-                        </div>
-                        <div>
-                            <img src="assert/Frame 741.png" alt="" srcset="">
-                        </div>
-                    </div>
-                </div>
+                
                 <p id="footer_copyright">@ Copyright megacity cab service 2024. All right reserved</p>
             </div>
         </div>

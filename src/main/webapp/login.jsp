@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Login</title>
-<link rel="stylesheet" href="CSS/Login.css">
+<link rel="stylesheet" href="CSS/NewFile.css">
 </head>
 <body>
 <input type="hidden" id="Response" value="<%=request.getAttribute("Response")%>">
@@ -19,7 +19,7 @@
                     <a href="">Offers</a>
                 </div>
                 <div class="abc_header_section_middle">
-                    <img src="assert/logo1.png" width="70" height="70" alt="LOGO" />
+                   <!--  <img src="assert/login_im.png" width="70" height="70" alt="LOGO" /> -->
                     <p>MEGA CITY CAB SERVICE</p>
                 </div>
                 <div class="abc_header_section_right">
@@ -52,7 +52,7 @@
                             </div>
 
                             <div class="sign_in_method">
-                                <div class="sign_in_method_icons">
+                               <!--  <div class="sign_in_method_icons">
                                     <img src="assert/social-media1.png" alt="" width="100%" height="100%" >
                                 </div>
                                 <div class="sign_in_method_icons">
@@ -60,7 +60,7 @@
                                 </div>
                                 <div class="sign_in_method_icons">
                                     <img src="assert/social3.png" alt="" width="100%" height="100%">
-                                </div>
+                                </div> -->
                             </div>
                             <div class="user_input_tems redirect_loging_page">
                                 <p>If you hav'nt account <a href="register.jsp">register?</a></p>
@@ -72,7 +72,7 @@
                         </form>
                     </div>
                     <div class="right_warpper">
-                        <img src="assert/blog-1.jpg" height="400" width="100%" alt="" srcset="">
+                        <img src="assert/login_im.png" height="400" width="100%" alt="" >
                     </div>
                 </div>
             </div>
@@ -87,39 +87,9 @@
                 </div>
                 <div class="footer_header_right"></div>
             </div>
-            <div class="middle_section_footer">
-                <div class="middle_section_footer_left">
-                    <p>CONTACT</p>
-                </div>
-                <div class="middle_section_footer_middle">
-                    <p>Join our premium list for updates</p>
-                    <p>Get news & offer event</p>
-                </div>
-                <div class="middle_section_footer_right">
-                    <p>WORKING HOURS</p>
-                </div>
-            </div>
-            <div class="bottom_section_footer">
-                <div class="bottom_section_footer_left">
-                    <p>5 Colombo,Liberty Road</p>
-                    <p>Call - +94775852366</p>
-                    <p>megacitycabservice@gmail.com</p>
-                </div>
-                <div class="bottom_section_footer_middle">
-                    <div class="email_address_customize">
-                        <input type="email" placeholder="Email" />
-                        <button>Subscribe</button>
-                    </div>
-                </div>
-                <div class="bottom_section_footer_right">
-                    <p>Mon-Fri 7.00am - 10.00pm</p>
-                    <p>Sat:7.00am - 6.00pm</p>
-                    <p>Sun:8.00am - 6.00pm</p>
-                </div>
-            </div>
-            <p id="copyright_2">
-                Copyright - Megacity cab service 2024 | Designed by Harsha Thilakarathne
-            </p>
+            
+            
+            
         </div>
     </div>
      <!-- Popup Container -->

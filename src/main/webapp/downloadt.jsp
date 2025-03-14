@@ -36,7 +36,7 @@
 <html>
 <head>
     <meta charset="ISO-8859-1">
-    <title>Download Ticket</title>
+    <title>Get Ticket</title>
 </head>
 <body>
     <h2>Booking Ticket</h2>
@@ -49,6 +49,6 @@
     <p><strong>Vehicle:</strong> <%= vehicleModel %></p>
     <p><strong>Price:</strong> Rs.<%= rentPrice %>.00</p>
 
-    <button onclick="window.print()">Download Ticket</button>
+    <button onclick="window.print()">Get Ticket</button>
 </body>
 </html>
