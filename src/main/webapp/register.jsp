@@ -84,40 +84,9 @@
                 
                     <h2>MEGA CITY CAB SERVICE</h2>
                 </div>
-                <div class="footer_header_right"></div>
-            </div>
-            <div class="middle_section_footer">
-                <div class="middle_section_footer_left">
-                    <p>CONTACT</p>
-                </div>
-                <div class="middle_section_footer_middle">
-                    <p>Join our premimum list for updates</p>
-                    <p>Get news & offer event</p>
-                </div>
-                <div class="middle_section_footer_right">
-                    <p>WORKING HOUSE</p>
-                </div>
-            </div>
-            <div class="bottom_section_footer">
-                <div class="bottom_section_footer_left">
-                    <p>5 Colombo,Liberty Road</p>
-                    <p>Call - +94775852366</p>
-                    <p>megacitycabservice@gmail.com</p>
-                </div>
-                <div class="bottom_section_footer_middle">
-                    <div class="email_address_customize">
-                        <input type="email" placeholder="Email" />
-                        <button>Subscribe</button>
-                    </div>
-                </div>
-                <div class="bottom_section_footer_right">
-                    <p>Mon-Fri 7.00am - 10.00pm</p>
-                    <p>Sat:7.00am - 6.00pm</p>
-                    <p>Sun:8.00am - 6.00pm</p>
-                </div>
-            </div>
+           
             <p id="copyright_2">
-                Copyright - megacity cab service 2024 | Designed by Harsha Thilakarathne
+               
             </p>
         </div>
     </div>

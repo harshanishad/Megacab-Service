@@ -23,7 +23,7 @@
     position: sticky;
     top: 0;
     height: 10vh;
-    background-color:#0D0D0D;
+    background-color:rgb(255, 128, 0);
 }
 .abc_header_section_left{
     display: flex;
@@ -39,7 +39,7 @@
     transition: 1000ms;
 }
 .abc_header_section_left a:hover{
-    color: rgb(239, 15, 15);
+    color: rgb(0, 255, 0);
 }
 .abc_header_section_middle{
     display: flex;
@@ -65,7 +65,7 @@
     padding: 1em;
     border-radius: 20px;
     font-size: 0.9rem;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 0, 128);
     font-weight: bold;
     transition: 1000ms;
     cursor: pointer;
